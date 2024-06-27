@@ -92,6 +92,19 @@
           "type": "magic",
           "value": 128
         }
+      },
+      "store": {
+        "rpt": {
+          "name": "Rich Person Trophy",
+          "desc": "A general buff to all aspects of the game. Will wipe your inventory if bought.",
+          "type": "buff",
+          "value": 1024
+      },
+      "slime-trophy": {
+        "name": "Slime Trophy",
+        "desc": "Increases slimeball drops.",
+        "type": "buff",
+        "value": 1024
       }
     }
   }
