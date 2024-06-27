@@ -73,6 +73,24 @@
           "desc": "The rarest item in the game, it gives you a variety of buffs including +1 emerald yield and decreased chance of being pillaged. Untradeable.",
           "type": "magic",
           "value": 4096
+        },
+        "lure-i": {
+          "name": "Lure I Book",
+          "desc": "Enchantment. Increases fishing loot. Applied automatically.",
+          "type": "magic",
+          "value": 32
+        },
+        "vault": {
+          "name": "Vault Poton",
+          "desc": "Increases vault space.",
+          "type": "magic",
+          "value": 30
+        },
+        "luck": {
+          "name": "Luck Potion",
+          "desc": "Increases chance of collectibles from mining and fishing.",
+          "type": "magic",
+          "value": 128
         }
       }
     }
